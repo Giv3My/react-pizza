@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server -p 3001 --watch ./public/db.json"
+    "server": "npx json-server -p 3001 --watch ./public/db.json"
   },
   "eslintConfig": {
     "extends": [
